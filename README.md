@@ -37,3 +37,29 @@
     </footer>
   </body>
 </html># -
+body {
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+}
+h1{
+    text-align: center;
+    color: brown;
+    display: flex;
+    margin-left: 110px;
+    margin-top: 10px;
+}
+p{
+    color: white;
+}
+header{
+    background-color: black;
+    color: white
+}
+footer{
+    background-color: blueviolet;
+}
+h2{
+    margin-top: 25px;
+    margin-left: 30px;
+}
